@@ -1,0 +1,23 @@
+name: blogs
+favicon: null
+layout_spectrum: 0.572889965493232
+typography_spectrum: 0.0149552954826504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.26774403848685324
+  lightness: 0.16103472653776407
+  saturation: 0.2239652352873236
+  rhythmicContrast: 0.8546789295505732
+purpose: []
